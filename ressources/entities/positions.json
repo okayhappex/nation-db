@@ -1,0 +1,212 @@
+{
+    "admin": {
+        "name": "Administrateur",
+        "permissions": [
+            "wr--",
+            "wrmd",
+            "wrmd",
+            "wrmd",
+            "wrmd",
+            "wrmd",
+            "wrmd",
+            "wrmd",
+            "wr-d",
+            "----"
+        ]
+    },
+    "pre_rep": {
+        "name": "Président de la République",
+        "permissions": [
+            "-r--",
+            "wr-d",
+            "wrmd",
+            "wrmd",
+            "wrmd",
+            "wr-d",
+            "wrmd",
+            "wr--",
+            "-r-d",
+            "----"
+        ]
+    },
+    "min_prim": {
+        "name": "Premier Ministre",
+        "permissions": [
+            "-r--",
+            "wr-d",
+            "wr-d",
+            "wrmd",
+            "wr--",
+            "wr--",
+            "-r--",
+            "wr--",
+            "-r--",
+            "----"
+        ]
+    },
+    "min_inn": {
+        "name": "Ministre de l'Intérieur et des Armées",
+        "permissions": [
+            "-r--",
+            "wr--",
+            "wr--",
+            "wr--",
+            "wr--",
+            "wr--",
+            "-r--",
+            "wr--",
+            "-r--",
+            "----"
+        ]
+    },
+    "min_eco": {
+        "name": "Ministre de l'Économie",
+        "permissions": [
+            "-r--",
+            "-rm-",
+            "----",
+            "wr--",
+            "wrmd",
+            "wr--",
+            "-r--",
+            "w---",
+            "-r--",
+            "----"
+        ]
+    },
+    "min_out": {
+        "name": "Ministre des Affaires Étrangères",
+        "permissions": [
+            "-r--",
+            "w---",
+            "----",
+            "wr--",
+            "wr--",
+            "wr--",
+            "-r--",
+            "wr--",
+            "-r--",
+            "----"
+        ]
+    },
+    "min_aud": {
+        "name": "Ministre de l'Audiovisuel et de la Presse",
+        "permissions": [
+            "-r--",
+            "w---",
+            "----",
+            "wr--",
+            "wr--",
+            "wr--",
+            "-rm-",
+            "wr--",
+            "-r--",
+            "----"
+        ]
+    },
+    "min_jus": {
+        "name": "Ministre de la Justice",
+        "permissions": [
+            "-r--",
+            "----",
+            "-r--",
+            "wr--",
+            "wr--",
+            "wr--",
+            "-r--",
+            "wr--",
+            "-r--",
+            "----"
+        ]
+    },
+    "pre_as": {
+        "name": "Président de l'Assemblée Nationale",
+        "permissions": [
+            "-r--",
+            "----",
+            "----",
+            "wr--",
+            "wr--",
+            "wr--",
+            "-r--",
+            "wr--",
+            "-r--",
+            "----"
+        ]
+    },
+    "repr": {
+        "name": "Député(e)",
+        "permissions": [
+            "-r--",
+            "----",
+            "----",
+            "wr--",
+            "wr--",
+            "-rmd",
+            "-r--",
+            "wr--",
+            "-r--",
+            "----"
+        ]
+    },
+    "judge": {
+        "name": "Juge",
+        "permissions": [
+            "-r--",
+            "-r-d",
+            "wr--",
+            "wr--",
+            "wr--",
+            "wr--",
+            "-r--",
+            "wr--",
+            "wr--",
+            "----"
+        ]
+    },
+    "officer": {
+        "name": "Officier",
+        "permissions": [
+            "-r--",
+            "----",
+            "wrm-",
+            "-r--",
+            "wrmd",
+            "-r--",
+            "-r--",
+            "wrmd",
+            "-r--",
+            "----"
+        ]
+    },
+    "citoyen": {
+        "name": "Citoyen",
+        "permissions": [
+            "-r--",
+            "----",
+            "wrm-",
+            "-r--",
+            "wrmd",
+            "-r--",
+            "-r--",
+            "wrmd",
+            "-r--",
+            "----"
+        ]
+    },
+    "bot_officiel": {
+        "name": "Bot Officiel",
+        "permissions": [
+            "wr--",
+            "wrmd",
+            "wrmd",
+            "wrmd",
+            "wrmd",
+            "-r--",
+            "wrmd",
+            "wrmd",
+            "-r--",
+            "----"
+        ]
+    }
+}

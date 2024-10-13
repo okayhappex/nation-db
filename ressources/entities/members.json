@@ -1,0 +1,132 @@
+{
+    "0": {
+        "name": "Entité Inconnue",
+        "register_date": 0,
+        "legal_position": "inconnu",
+        "additional": {},
+        "xp": 0,
+        "boosts": {},
+        "permissions": [
+            "----",
+            "----",
+            "----",
+            "----",
+            "----",
+            "-r--",
+            "-r--",
+            "----",
+            "----",
+            "----"
+        ]
+    },
+    "116F86BEEF000051": {
+        "name": "Bot de Communauté",
+        "register_date": 1718661600,
+        "legal_position": "official_bot",
+        "additional": {},
+        "xp": 0,
+        "boosts": {
+            "bot": 0
+        },
+        "permissions": [
+            "wr--",
+            "-r--",
+            "wrmd",
+            "wrmd",
+            "----",
+            "-r--",
+            "-r--",
+            "----",
+            "----",
+            "----"
+        ]
+    },
+    "11BB0C1BF884006F": {
+        "name": "Bot d'Économie",
+        "register_date": 1718661600,
+        "legal_position": "official_bot",
+        "additional": {},
+        "xp": 0,
+        "boosts": {
+            "bot": 0
+        },
+        "permissions": [
+            "wr--",
+            "wrmd",
+            "wr--",
+            "-rm-",
+            "wrmd",
+            "-r--",
+            "-r--",
+            "----",
+            "wr--",
+            "----"
+        ]
+    },
+    "11719B8EDC020014": {
+        "name": "Hôtel de ville",
+        "register_date": 1718661600,
+        "legal_position": "official_bot",
+        "additional": {},
+        "xp": 0,
+        "boosts": {
+            "bot": 0
+        },
+        "permissions": [
+            "wr--",
+            "----",
+            "wr--",
+            "wrmd",
+            "----",
+            "wr--",
+            "-r--",
+            "----",
+            "wr--",
+            "wr--"
+        ]
+    },
+    "11634DF90F42005B": {
+        "name": "Bot de Modération",
+        "register_date": 1718661600,
+        "legal_position": "official_bot",
+        "additional": {},
+        "xp": 0,
+        "boosts": {
+            "bot": 0
+        },
+        "permissions": [
+            "wr--",
+            "-rm-",
+            "wrmd",
+            "wrmd",
+            "----",
+            "-r--",
+            "-r--",
+            "wrmd",
+            "-r--",
+            "----"
+        ]
+    },
+    "1163990DA200003D": {
+        "name": "Bot du Serveur",
+        "register_date": 1718661600,
+        "legal_position": "official_bot",
+        "additional": {},
+        "xp": 0,
+        "boosts": {
+            "bot": 0
+        },
+        "permissions": [
+            "wr--",
+            "----",
+            "-rm-",
+            "----",
+            "----",
+            "-r--",
+            "wrmd",
+            "----",
+            "----",
+            "----"
+        ]
+    }
+}
